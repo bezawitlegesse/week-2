@@ -66,7 +66,20 @@ Each query is worded differently from the FAQ it should find.
 ### Actual output from my run
 
 ```
-(paste the printed top-3 results from the notebook here)
+Query: I forgot my password
+  1. [Accounts] How do I reset my student portal password?
+  2. [Accounts] I can't log in to the student portal. What should I do?
+  3. [Accounts] How can I change the email address linked to my account?
+
+Query: can I pay tuition in parts?
+  1. [Fees] How do I pay my tuition fee?  (distance: 0.931)
+  2. [Fees] Can I pay my fees in installments?  (distance: 1.116)
+  3. [Registration] How do I add or drop a course?  (distance: 1.418)
+
+Query: I lost my ID
+  1. [Student Services] What should I do if I lose my student ID card?
+  2. [Accounts] How do I reset my student portal password?
+  3. [Registration] What happens if I miss the registration deadline?
 ```
 
 ## Notes
